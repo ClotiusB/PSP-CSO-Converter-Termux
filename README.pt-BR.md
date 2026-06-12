@@ -148,4 +148,5 @@ ciso 9 input.iso output.cso
 
 ## Licença
 
-MIT License
+[MIT License](https://github.com/ClotiusB/PSP-CSO-Converter-Termux#)
+
