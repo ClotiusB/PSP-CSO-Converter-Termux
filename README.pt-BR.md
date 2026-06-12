@@ -19,6 +19,7 @@ Converta jogos PSP ISO para CSO diretamente no Android usando Termux.
 - Termux
 - Permissão de armazenamento concedida
 - Pacote ciso instalado
+- Pacote git instalado
 
 ## Instalação
 
@@ -34,6 +35,7 @@ pkg upgrade -y
 ```bash
 pkg install python -y
 pkg install ciso -y
+pkg install git -y
 ```
 
 **Conceda acesso ao armazenamento:**
